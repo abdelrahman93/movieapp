@@ -10,7 +10,7 @@ android {
     buildToolsVersion "30.0.1"
 
     defaultConfig {
-        applicationId "com.task.nutritionapp"
+        applicationId "com.task.movieapp"
         minSdkVersion 17
         targetSdkVersion 30
         multiDexEnabled true
